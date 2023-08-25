@@ -1,5 +1,3 @@
-theme: dinky
-
 # My Data Science Portfolio
 
 ![Project Image](project_image.png) <!-- Replace with an image if desired -->
@@ -52,3 +50,5 @@ Each project may have specific usage instructions provided in their respective N
 Contributions, suggestions, and improvements are always welcome! If you find any issues or want to suggest enhancements, feel free to open an issue or submit a pull request.
 
 Feel free to reach out if you have any questions or if you'd like to discuss any of the projects in more detail. Thank you for visiting my Data Science Portfolio!
+
+theme: minima
