@@ -51,4 +51,4 @@ Contributions, suggestions, and improvements are always welcome! If you find any
 
 Feel free to reach out if you have any questions or if you'd like to discuss any of the projects in more detail. Thank you for visiting my Data Science Portfolio!
 
-theme: minima
+theme: dinky
