@@ -1,5 +1,5 @@
 # My Data Science Portfolio
-
+theme: minima
 ![Project Image](project_image.png) <!-- Replace with an image if desired -->
 
 This repository contains a collection of individual and group projects that I've worked on, both independently and as part of university courses. The projects cover a wide range of topics within the field of data science, showcasing my skills, expertise, and growth in the domain.
